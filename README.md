@@ -7,7 +7,7 @@
 직접 만들어보며 배우는 걸 좋아해서 풀스택으로 프로젝트를 진행하고 있고,<br/>
 정보보안에도 관심이 있어 관련 학습을 병행하고 있습니다.
 
-[![Tech Blog](https://img.shields.io/badge/Tech%20Blog-thinghon.tistory.com-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white)](https://thinghon.tistory.com/)
+[![Tech Blog](https://img.shields.io/badge/Tech%20Blog-thinghon.tistory.com-FF5A4A?style=for-the-badge)](https://thinghon.tistory.com/)
 
 </div>
 
