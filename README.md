@@ -54,14 +54,3 @@
 |---|---|---|---|
 | **[감정날씨지도](https://github.com/thinghon/likeion_weather)** | 오늘의 기분을 날씨로 전국 지도에 기록하는 풀스택 웹앱 | 프론트엔드 개발 · 팀 리딩 | `React` `Django` `Mapbox` |
 | **[마음일기](https://github.com/thinghon/maeum-diary)** | 일기 기록 기반 정신건강 셀프체크 웹앱 | 개인 프로젝트 | `React` `Vite` `PWA` |
-
----
-
-### 📊 GitHub
-
-<div align="center">
-
-![thinghon's GitHub stats](https://github-readme-stats.vercel.app/api?username=thinghon&show_icons=true&hide_border=true&include_all_commits=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thinghon&layout=compact&hide_border=true&theme=default)
-
-</div>
